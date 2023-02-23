@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: red;
+  padding: 1em;
+  text-align: center;
+}
+
+nav {
+  background-color: orange;
+  padding: 1em;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 1em;
+}
+
+footer {
+  background-color: yellow;
+  padding: 1em;
+  text-align: center;
+}
